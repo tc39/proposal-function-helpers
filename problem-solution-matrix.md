@@ -30,8 +30,11 @@
 <td><code>Function.compose(...fns.reverse())</code></td>
 <td>
 
-- [`compose` in Ramda](https://ramdajs.com/docs/#compose)
+- [`flow` in Lodash](https://lodash.com/docs/4.17.15#flow)
 - [`pipe` in Ramda](https://ramdajs.com/docs/#pipe)
+- [`flow` in fp-ts](https://gcanti.github.io/fp-ts/modules/function.ts.html#flow)
+
+- [`compose(...fns.reverse())` in Ramda](https://ramdajs.com/docs/#compose)
 
 </td>
 </tr>
