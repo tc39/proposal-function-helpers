@@ -62,8 +62,17 @@ based on the most current proposal.
 <td><code>x => Function.pipeAsync(x, ...fns)</code></td>
 <td>
 
-- [`composeP` in Ramda](https://ramdajs.com/docs/#composeP)
 - [`pipeP` in Ramda](https://ramdajs.com/docs/#pipeP)
+
+</td>
+</tr>
+
+<tr>
+<td>To define a function in terms of a series of async function calls in right-to-left order</td>
+<td><code>x => Function.pipeAsync(x, ...fns.reverse())</code></td>
+<td>
+
+- [`composeP` in Ramda](https://ramdajs.com/docs/#composeP)
 
 </td>
 </tr>
