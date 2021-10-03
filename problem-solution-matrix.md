@@ -85,7 +85,7 @@ based on the most current proposal.
 </tr>
 
 <tr>
-<td>To (partially) compose two unary functions in left-to-right order</td>
+<td>To (partially) compose two unary functions in right-to-left order</td>
 <td><code>Function.compose.bind(Function, f)(g)(x)</code></td>
 <td>
 
