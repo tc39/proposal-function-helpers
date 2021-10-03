@@ -3,6 +3,9 @@ discussing whether each separate need has to be addressed by this proposal.
 It's purpose is solely to organize these needs with the proposed solutions to
 be able to talk about them in a clear and organized way.
 
+The "Proposed Solution" is meant to be a living column showing the status quo
+based on the most current proposal.
+
 <table>
 <thead>
 <tr>
@@ -55,7 +58,7 @@ be able to talk about them in a clear and organized way.
 
 <tr>
 <td>To define a function in terms of a series of async function calls in left-to-right order</td>
-<td>-</td>
+<td><code>x => Function.pipeAsync(x, ...fns)</code></td>
 <td>
 
 - [`composeP` in Ramda](https://ramdajs.com/docs/#composeP)
