@@ -41,6 +41,7 @@ based on the most current proposal.
 - [`flow` in Lodash](https://lodash.com/docs/4.17.15#flow)
 - [`pipe` in Ramda](https://ramdajs.com/docs/#pipe)
 - [`flow` in fp-ts](https://gcanti.github.io/fp-ts/modules/function.ts.html#flow)
+- [`pipe(fns)` in Sanctuary](https://sanctuary.js.org/#pipe)
 
 </td>
 </tr>
