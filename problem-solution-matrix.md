@@ -1,7 +1,12 @@
+The table below talks about "developer needs" without having validated them or
+discussing whether each separate need has to be addressed by this proposal.
+It's purpose is solely to organize these needs with the proposed solutions to
+be able to talk about them in a clear and organized way.
+
 <table>
 <thead>
 <tr>
-<th>Problem Description</th>
+<th>Developer Need</th>
 <th>Proposed Solution</th>
 <th>Precedents</th>
 </tr>
