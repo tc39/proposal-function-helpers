@@ -33,7 +33,17 @@
 - [`flow` in Lodash](https://lodash.com/docs/4.17.15#flow)
 - [`pipe` in Ramda](https://ramdajs.com/docs/#pipe)
 - [`flow` in fp-ts](https://gcanti.github.io/fp-ts/modules/function.ts.html#flow)
-- [`compose(...fns.reverse())` in Ramda](https://ramdajs.com/docs/#compose)
+
+</td>
+</tr>
+
+<tr>
+<td>To define a function in terms of a series of function calls in right to left order</td>
+<td><code>Function.compose(...fns)</code></td>
+<td>
+
+- [`compose` in Ramda](https://ramdajs.com/docs/#compose)
+- [`flowRight` in Lodash](https://lodash.com/docs/4.17.15#flowRight)
 
 </td>
 </tr>
