@@ -14,7 +14,7 @@ be able to talk about them in a clear and organized way.
 <tbody>
 
 <tr>
-<td>To apply a series of unary functions to a value</td>
+<td>To apply a series of unary functions to a value in left-to-right order</td>
 <td><code>Function.pipe(value, ...fns)</code></td>
 <td>
 
@@ -24,14 +24,14 @@ be able to talk about them in a clear and organized way.
 </tr>
 
 <tr>
-<td>To apply a series of unary async functions to a value</td>
+<td>To apply a series of unary async functions to a value in left-to-right order</td>
 <td><code>Function.pipeAsync(value, ...fns)</code></td>
 <td>
 </td>
 </tr>
 
 <tr>
-<td>To define a function in terms of a series of function calls</td>
+<td>To define a function in terms of a series of function calls in left-to-right order</td>
 <td><code>Function.compose(...fns.reverse())</code></td>
 <td>
 
@@ -43,7 +43,7 @@ be able to talk about them in a clear and organized way.
 </tr>
 
 <tr>
-<td>To define a function in terms of a series of function calls in right to left order</td>
+<td>To define a function in terms of a series of function calls in right-to-left order</td>
 <td><code>Function.compose(...fns)</code></td>
 <td>
 
@@ -54,7 +54,7 @@ be able to talk about them in a clear and organized way.
 </tr>
 
 <tr>
-<td>To define a function in terms of a series of async function calls</td>
+<td>To define a function in terms of a series of async function calls in left-to-right order</td>
 <td>-</td>
 <td>
 
@@ -65,7 +65,7 @@ be able to talk about them in a clear and organized way.
 </tr>
 
 <tr>
-<td>To (partially) compose two unary functions</td>
+<td>To (partially) compose two unary functions in left-to-right order</td>
 <td><code>Function.compose.bind(Function, f)(g)(x)</code></td>
 <td>
 
