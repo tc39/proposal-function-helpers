@@ -69,6 +69,7 @@ based on the most current proposal.
 <td>
 
 - [`pipeP` in Ramda](https://ramdajs.com/docs/#pipeP)
+- [`p-pipe` by sindresorhus](https://www.npmjs.com/package/p-pipe)
 
 </td>
 </tr>
