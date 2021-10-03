@@ -22,6 +22,12 @@ based on the most current proposal.
 <td>
 
 - [`pipe` in fp-ts](https://gcanti.github.io/fp-ts/modules/function.ts.html#pipe)
+- [`|>` in F#](https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/functions/#function-composition-and-pipelining)
+- [`|>` in Elixir](https://hexdocs.pm/elixir/Kernel.html#%7C%3E/2)
+- [`|>` in Elm](https://package.elm-lang.org/packages/elm/core/latest/Basics#(|%3E))
+- [`|>` in Julia](https://docs.julialang.org/en/v1/base/base/#Base.:%7C%3E)
+- [`|>` in LiveScript](https://livescript.net/#piping)
+- [`Data.Function.&` in Haskell](https://hackage.haskell.org/package/base-4.15.0.0/docs/Data-Function.html#v:-38-)
 
 </td>
 </tr>
