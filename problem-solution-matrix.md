@@ -75,6 +75,7 @@ based on the most current proposal.
 - [`compose` in Sanctuary](https://sanctuary.js.org/#compose)
 - [`map` in Sanctuary](https://sanctuary.js.org/#map)
 - [`map` in Ramda](https://ramdajs.com/docs/#map)
+- [`B` from combinatory logic](https://gist.github.com/Avaq/1f0636ec5c8d6aed2e45)
 
 </td>
 </tr>
@@ -88,6 +89,7 @@ based on the most current proposal.
 - [`always` in Ramda](https://ramdajs.com/docs/#always)
 - [`K` in Sanctuary](https://sanctuary.js.org/#K)
 - [`constant-function` in stdlib](https://stdlib.io/docs/api/latest/@stdlib/utils/constant-function)
+- [`K` from combinatory logic](https://gist.github.com/Avaq/1f0636ec5c8d6aed2e45)
 
 </td>
 </tr>
@@ -101,6 +103,7 @@ based on the most current proposal.
 - [`identity` in Ramda](https://ramdajs.com/docs/#identity)
 - [`I` in Sanctuary](https://sanctuary.js.org/#I)
 - [`identity-function` in stdlib](https://stdlib.io/docs/api/latest/@stdlib/utils/identity-function)
+- [`I` from combinatory logic](https://gist.github.com/Avaq/1f0636ec5c8d6aed2e45)
 
 </td>
 </tr>
