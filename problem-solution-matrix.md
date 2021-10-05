@@ -128,5 +128,18 @@ based on the most current proposal.
 </td>
 </tr>
 
+<tr>
+<td>A way to run side effects inside a functional pipeline</td>
+<td><code>x => { sideEffect(x); return x; }</code></td>
+<td>
+
+- [`tap` in Ramda](https://ramdajs.com/docs/#tap)
+- [`tap` in lodash](https://lodash.com/docs/4.17.15#tap)
+- [`inspect` in Rust](https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.inspect)
+- [`Debug.Trace` on Hackage](https://hackage.haskell.org/package/base-4.15.0.0/docs/Debug-Trace.html)
+
+</td>
+</tr>
+
 </tbody>
 </table>
