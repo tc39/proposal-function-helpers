@@ -1,11 +1,23 @@
 # Function helpers for JavaScript
-ECMAScript Stage-0 Proposal. J. S. Choi, 2021.
+Withdrawn ECMAScript Stage-0 Proposal. J. S. Choi, 2021.
 
-* Formal specification: Not yet
-* Babel plugin: Not yet
+[On 2021-10, proposal-function-helpers was presented to the Committee
+plenary][2021-10] for Stage 1. The Committee rejected the proposal due to its
+being overly broad and requests that it be split up into multiple proposals.
+This proposal is therefore **withdrawn** and split into
+[proposal-function-pipe-flow][] and [proposal-function-un-this][].
+
+[2021-10]: https://github.com/tc39-transfer/proposal-function-helpers/issues/17#issuecomment-953814353
+[proposal-function-pipe-flow]: https://github.com/js-choi/proposal-function-pipe-flow
+[proposal-function-un-this]: https://github.com/js-choi/proposal-function-un-this
+
 * [Proposal history][HISTORY.md]
 
 [HISTORY.md]: https://github.com/js-choi/proposal-function-helpers/blob/main/HISTORY.md
+
+<details>
+
+<summary>Original proposal</summary>
 
 Several useful, common helper functions are defined, downloaded, and used a lot.
 We should standardize at least some of them.
@@ -665,3 +677,5 @@ Precedents include:
 [call-bind]: https://www.npmjs.com/package/call-bind
 
 [pipe history]: https://github.com/tc39/proposal-pipeline-operator/blob/main/HISTORY.md
+
+</details>
